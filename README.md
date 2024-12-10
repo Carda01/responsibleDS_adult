@@ -1,7 +1,9 @@
 # Responsible Data Science (Adult dataset)
 ## Introduction
 This project revolves around the concept of responsible data science, using the UCI Adult dataset, which contains records of people categorized using different attributes, like age, sex, education, marital status etc.
+
 The goal of the classifier we built was to predict the salary of that person, but we explored also the concept of fairness, privacy and explainability.
+
 The project was part of the first semester of the Erasmus Mundus project called BDMA and for the subject called Management of Data Science and Business Workflows, teached at ULB.
 
 ## Run locally
